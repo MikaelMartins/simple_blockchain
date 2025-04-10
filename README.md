@@ -64,7 +64,7 @@ http://127.0.0.1:5000/
 
 ## 📡 Endpoints
 
-`GET /chain`
+`GET /chain`  
 Retorna toda a blockchain no formato JSON.
 
 Exemplo de uso:
@@ -73,7 +73,7 @@ Exemplo de uso:
 curl http://127.0.0.1:5000/chain
 ```
 
-`POST /mine-block`
+`POST /mine-block`  
 Cria um novo bloco e adiciona à blockchain.
 
 Exemplo de uso:
