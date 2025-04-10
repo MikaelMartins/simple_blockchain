@@ -29,7 +29,7 @@ Este é um exemplo básico de uma **blockchain minimalista** implementada em Pyt
 
 ```bash
 git clone https://github.com/MikaelMartins/simple_blockchain.git
-cd simple_blockchain/simple_blockchain
+cd simple_blockchain
 ```
 ### 2. Crie um ambiente virtual (recomendado)
 
