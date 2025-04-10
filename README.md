@@ -90,6 +90,6 @@ Este projeto é apenas uma simulação educacional de uma blockchain. Ele não d
 ---
 
 ## 👨‍💻 Autor
-Mikael Martins
-Estudante de Engenharia da Computação
+Mikael Martins  
+Estudante de Engenharia da Computação  
 GitHub: [@MikaelMartins](https://github.com/MikaelMartins)
